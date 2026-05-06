@@ -1,2 +1,1 @@
-# tlug-share
-t-lug/resources-sharing-app
+# resources-sharing-app
